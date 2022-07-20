@@ -1,0 +1,8 @@
+Version 1.0
+ - Created basic program interface.
+Version 1.01
+ - The title of the program has been set.
+ - There are spaces in training texts now.
+ - An end-level error has been fixed.
+ - Packet file is not necessary for updating text files.
+
